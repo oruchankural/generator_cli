@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>generator_cli</id>
+    <version>1.0.3</version>
+    <authors>generator_cli</authors>
+    <readme>README.md</readme>
+    <description>Package Description</description>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" commit="195c54962388c3c04ce8be602b1ae70427381bd7" />
+  </metadata>
+  <files>
+    <file src="C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\DotnetToolSettings.xml" target="tools\net7.0\any\DotnetToolSettings.xml" />
+    <file src="C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\bin\Release\net7.0\publish\generator_cli.dll" target="tools\net7.0\any\generator_cli.dll" />
+    <file src="C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\bin\Release\net7.0\publish\generator_cli.deps.json" target="tools\net7.0\any\generator_cli.deps.json" />
+    <file src="C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\bin\Release\net7.0\publish\generator_cli.runtimeconfig.json" target="tools\net7.0\any\generator_cli.runtimeconfig.json" />
+    <file src="C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\bin\Release\net7.0\publish\generator_cli.pdb" target="tools\net7.0\any\generator_cli.pdb" />
+    <file src="C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\bin\Release\net7.0\publish\CommandLine.dll" target="tools\net7.0\any\CommandLine.dll" />
+    <file src="C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\docs\README.md" target="\README.md" />
+  </files>
+</package>

@@ -12,11 +12,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("generator_cli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.3.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.3+195c54962388c3c04ce8be602b1ae70427381bd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("generator_cli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("generator_cli")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("1.0.3.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
 

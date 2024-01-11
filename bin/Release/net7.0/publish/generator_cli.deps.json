@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "generator_cli/1.0.0": {
+      "generator_cli/1.0.3": {
         "dependencies": {
           "CommandLineParser": "2.8.0"
         },
@@ -25,7 +25,7 @@
     }
   },
   "libraries": {
-    "generator_cli/1.0.0": {
+    "generator_cli/1.0.3": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

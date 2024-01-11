@@ -4,3 +4,15 @@ C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.
 C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.0\generator_cli.AssemblyInfo.cs
 C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.0\generator_cli.csproj.CoreCompileInputs.cache
 C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.0\generator_cli.sourcelink.json
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\bin\Debug\net7.0\generator_cli.exe
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\bin\Debug\net7.0\generator_cli.deps.json
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\bin\Debug\net7.0\generator_cli.runtimeconfig.json
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\bin\Debug\net7.0\generator_cli.dll
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\bin\Debug\net7.0\generator_cli.pdb
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\bin\Debug\net7.0\CommandLine.dll
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.0\generator_cli.csproj.CopyComplete
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.0\generator_cli.dll
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.0\refint\generator_cli.dll
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.0\generator_cli.pdb
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.0\generator_cli.genruntimeconfig.cache
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.0\ref\generator_cli.dll

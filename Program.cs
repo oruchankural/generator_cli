@@ -1,4 +1,5 @@
-﻿using CommandLine;
+﻿using System.Text;
+using CommandLine;
 namespace generator_cli;
 
 class Program
@@ -68,9 +69,17 @@ class Program
     }
     static string GenerateServiceFileContent(string projectNamespace, string serviceName)
     {
-        var structure = @$"namespace {projectNamespace}.Contracts.Services; {{function}}";
-        var function = @"public interface I" + serviceName + "{ // Add your methods }";
+        StringBuilder fileContentBuilder = new StringBuilder();
 
-        return structure.Replace("", function);
+        var structure = $"namespace {projectNamespace}.Contracts.Services;";
+        var function = $@"
+        public interface I{serviceName}
+        {{
+        }}";
+
+        fileContentBuilder.AppendLine(structure);
+        fileContentBuilder.AppendLine(function);
+
+        return fileContentBuilder.ToString();
     }
 }

@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\Editor\\Desktop\\Homie\\generator-cli\\remote\\generator_cli\\generator_cli.csproj": {
-      "version": "1.0.1",
+      "version": "1.0.4",
       "restore": {
         "projectUniqueName": "C:\\Users\\Editor\\Desktop\\Homie\\generator-cli\\remote\\generator_cli\\generator_cli.csproj",
         "projectName": "generator_cli",
