@@ -1,0 +1,6 @@
+C:\Users\Editor\Desktop\Homie\generator-cli\generator_cli\bin\Release\net7.0\publish\generator_cli.exe
+C:\Users\Editor\Desktop\Homie\generator-cli\generator_cli\bin\Release\net7.0\publish\generator_cli.dll
+C:\Users\Editor\Desktop\Homie\generator-cli\generator_cli\bin\Release\net7.0\publish\generator_cli.deps.json
+C:\Users\Editor\Desktop\Homie\generator-cli\generator_cli\bin\Release\net7.0\publish\generator_cli.runtimeconfig.json
+C:\Users\Editor\Desktop\Homie\generator-cli\generator_cli\bin\Release\net7.0\publish\generator_cli.pdb
+C:\Users\Editor\Desktop\Homie\generator-cli\generator_cli\bin\Release\net7.0\publish\CommandLine.dll
