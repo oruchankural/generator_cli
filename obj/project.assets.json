@@ -51,13 +51,13 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Editor\\Desktop\\Homie\\generator-cli\\generator_cli\\generator_cli.csproj",
+      "projectUniqueName": "C:\\Users\\Editor\\Desktop\\Homie\\generator-cli\\remote\\generator_cli\\generator_cli.csproj",
       "projectName": "generator_cli",
-      "projectPath": "C:\\Users\\Editor\\Desktop\\Homie\\generator-cli\\generator_cli\\generator_cli.csproj",
+      "projectPath": "C:\\Users\\Editor\\Desktop\\Homie\\generator-cli\\remote\\generator_cli\\generator_cli.csproj",
       "packagesPath": "C:\\Users\\Editor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Editor\\Desktop\\Homie\\generator-cli\\generator_cli\\obj\\",
+      "outputPath": "C:\\Users\\Editor\\Desktop\\Homie\\generator-cli\\remote\\generator_cli\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -68,12 +68,9 @@ class Program
     }
     static string GenerateServiceFileContent(string projectNamespace, string serviceName)
     {
-        return $@"namespace {projectNamespace}.Contracts.Services;
-        {{
-            public interface I{serviceName}
-            {{
-                // Add read service methods here
-            }}
-        }}";
+        var structure = @$"namespace {projectNamespace}.Contracts.Services; {{function}}";
+        var function = @"public interface I" + serviceName + "{ // Add your methods }";
+
+        return structure.Replace("", function);
     }
 }

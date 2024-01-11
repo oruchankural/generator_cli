@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VTdETlCBL9pAdU3A6IxCsq/YeYML0GzSuLBqhI8QpVeUAIdqsG7BGrWv/WE2nIy0UF+srwqLuPRzho4xeAo2HA==",
+  "dgSpecHash": "ndCoIKV9FnTQU4FvqXRTUalaOvmcSqWLtPFdrwb8GHQucjaOl8Kh+YlNmKHAYxRh11wqxzbMAXKkUMfPrHh1ug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Editor\\Desktop\\Homie\\generator-cli\\generator_cli\\generator_cli.csproj",
+  "projectFilePath": "C:\\Users\\Editor\\Desktop\\Homie\\generator-cli\\remote\\generator_cli\\generator_cli.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Editor\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512"
   ],

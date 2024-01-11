@@ -1,0 +1,6 @@
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.0\generator_cli.csproj.AssemblyReference.cache
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.0\generator_cli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.0\generator_cli.AssemblyInfoInputs.cache
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.0\generator_cli.AssemblyInfo.cs
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.0\generator_cli.csproj.CoreCompileInputs.cache
+C:\Users\Editor\Desktop\Homie\generator-cli\remote\generator_cli\obj\Debug\net7.0\generator_cli.sourcelink.json
